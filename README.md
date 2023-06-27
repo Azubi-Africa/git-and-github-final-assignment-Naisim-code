@@ -5,7 +5,7 @@ This template repository hosts the final Git & GitHub assignment.
 We learnt how to use Git & GitHub to keep records of milestones during  projects. Now, this is time for the final assignment that consists in creating *3 repositories* each having a *minimum of 3 commits* to host some of the previous projects you worked on, during the previous phase of the program and fill the table in the `Recap Table` section.
 
 ## Assignment
-The following steps constitute your assignment :
+The following steps constitute the assignment :
 1. **Clone this repository** on your local machine; 
 1. Configure it as described in the `Setup` section;
 1. Select `3` projects, your own ones or projects done during the previous part of the Azubi program ;
@@ -20,11 +20,10 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  stock-track             |keeps track of stockflow rate and describes future for it             | https://github.com/Naisim-code/stock-track      |
+| 2 |   revenue analysis            |  looks at the effect of the tax imposed to revenue             | https://github.com/Naisim-code/Revenue-analysis       |
+| 3 |  viaolations analysis             |  looks at the effect the vehicles in the city on its revenue              | https://github.com/Naisim-code/viaolations-analysis       |
 
-**NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
 ## Setup
 Install the required packages to be able to run the evaluation locally.
